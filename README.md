@@ -1,4 +1,4 @@
-[![Header](https://github.com/Leuchanka/leuchanka/blob/main/photo.jpg)]
+                           ![Header](https://github.com/Leuchanka/leuchanka/blob/main/photo.jpg)
 ## I'm a QA Engineer. 
 
 ## My CV
