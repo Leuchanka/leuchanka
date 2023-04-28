@@ -22,5 +22,5 @@
 
 ### Follow Me
 
-[![Header](https://img.shields.io/badge/Telegram-556B2F?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/NataLeuch)
-[![Header](https://img.shields.io/badge/Linkedin-556B2F?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://linkedin.com/in/natalyaleuchanka)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/NataLeuch)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://linkedin.com/in/natalyaleuchanka)
