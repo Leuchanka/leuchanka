@@ -1,5 +1,5 @@
-![Header](https://github.com/Leuchanka/leuchanka/blob/main/photo.jpg)
-## I'm a QA Engineer. 
+![Header](https://github.com/Leuchanka/leuchanka/blob/main/assets/photo.jpg)
+## I'm a beginner QA Engineer. 
 
 ## My CV
 [Link to my CV](позже)
@@ -12,10 +12,15 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Documentation
+### Portfolio
 
-- [Checklists](https://github.com/Leuchanka/checklist)
-- [Test-Suites and Test-Cases](https://github.com/Leuchanka/test-cases)
-- [Bug-Reports](https://github.com/Leuchanka/bug-reports)
-- [SQL Queries](https://github.com/Leuchanka/SQL)
+- [Checklists](https://github.com/Leuchanka/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/Leuchanka/Test-Suites-and-Test-Cases)
+- [Bug-Reports](https://github.com/Leuchanka/Bug-Reports)
+- [Quality Reports](https://github.com/Leuchanka/Quality-Reports)
+- [SQL Queries](https://github.com/Leuchanka/SQL-Queries)
 
+### Follow Me
+
+[![Header](https://img.shields.io/badge/Telegram-556B2F?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/NataLeuch)
+[![Header](https://img.shields.io/badge/Linkedin-556B2F?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://linkedin.com/in/natalyaleuchanka)
