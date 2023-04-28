@@ -1,5 +1,4 @@
-![Header](https://github.com/Leuchanka/leuchanka/blob/main/assets/photo.jpg)
-## I'm a beginner QA Engineer. 
+## I'm a beginner QA Engineer
 
 ## My CV
 [Link to my CV](позже)
