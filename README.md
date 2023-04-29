@@ -13,7 +13,6 @@
 
 ### Portfolio
 
-- [Checklists](https://github.com/Leuchanka/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/Leuchanka/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/Leuchanka/Bug-Reports)
 - [Quality Reports](https://github.com/Leuchanka/Quality-Reports)
